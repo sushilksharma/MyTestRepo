@@ -1,3 +1,4 @@
 Nexus5 = 25000
 MotoG=15000
 LG-G6=55000
+IPhone=60000
